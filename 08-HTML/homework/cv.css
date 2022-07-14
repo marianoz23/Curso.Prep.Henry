@@ -1,0 +1,26 @@
+body {
+}
+
+h1 {
+	color : black;
+   }
+h2 {
+	color : white;
+   }
+
+img {
+	width : 200px;
+   }
+
+#aDiv{
+	background-color : rgb(211, 207, 207);
+    height: 260px;
+	width : 1450px;
+	padding : 15px;
+	border: 5px solid rgb(216, 216, 223);
+ }
+#spanId {
+	font-size : 18px;
+	margin : 50px;
+}
+
