@@ -1,0 +1,26 @@
+body {
+	background-image : url("https://www.demoslavueltaaldia.com/sites/default/files/fettuccine-la-bolonesa.jpg");
+    background-size : cover; 
+    background-repeat:no-repeat;
+    background-position-x : right; 
+    background-position-y : center; 
+}
+
+h1 {
+	color : red;
+   }
+img {
+	width : 400px;
+   }
+#thirDiv{
+	background-color : pink;
+    height: 600px;
+	width : 500px;
+	padding : 50px;
+	border: 10px solid green;
+ }
+#spanId {
+	font-size : 18px;
+	margin : 50px;
+}
+
