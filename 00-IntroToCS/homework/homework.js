@@ -2,8 +2,7 @@
 
 function BinarioADecimal(num) {
   // tu codigo aca
-
-  /*
+    /* este es un mensaje
   '1110'  --- 1*2^3 + 1*2^2 + 1*2^1 + 0*2^0
           ---  8 + 4 + 2 =14
   */
