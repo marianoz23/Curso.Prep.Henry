@@ -1,19 +1,19 @@
-'use strict'
+//'use strict'
 
 function BinarioADecimal(num) {
   // tu codigo aca
-    /* este es un mensaje
+  /* este es un mensaje
   '1110'  --- 1*2^3 + 1*2^2 + 1*2^1 + 0*2^0
           ---  8 + 4 + 2 =14
   */
 
-          let num = 0;
-          let xlen = length.cad;
-          for(i=0, i<length.cad,i++){
-              num = num + (cad[i]*2^xlen);
-              xlen--;
-          }
-          return(num);asdñlaslñdkñ
+  let num = 0;
+  let xlen = length.cad;
+  for(let i=0; i<length.cad; i++){
+     num = num + (cad[i]*(2**xlen));
+     xlen--;
+  }
+  return(num);
         
 }
 
@@ -27,9 +27,8 @@ function DecimalABinario(num) {
   1 / 2  --- 0 | 1
   '1110'
   */
-
+  let cad = '';
   return(cad)
-
 }
 
 
@@ -39,5 +38,6 @@ function DecimalABinario(num) {
 }
 */
 
-console.log(BinarioADecimal('1110'))
-console.log(DecimalABinario('14'))
+console.log(BinarioADecimal('1110'));
+console.log(DecimalABinario('14'));
+
