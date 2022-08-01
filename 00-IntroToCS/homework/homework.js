@@ -14,7 +14,7 @@ function BinarioADecimal(num) {
               num = num + (cad[i]*2^xlen);
               xlen--;
           }
-          return(num);
+          return(num);asdñlaslñdkñ
         
 }
 
